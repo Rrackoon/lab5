@@ -1,0 +1,71 @@
+[
+  {
+    "id": 3,
+    "name": "aa",
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": "5::Mar::2024 20::31::34",
+    "studentsCount": 2,
+    "expelledStudents": 4,
+    "shouldBeExpelled": 4,
+    "formOfEducation": "FULL_TIME_EDUCATION",
+    "groupAdmin": {
+      "name": "ADMIN0",
+      "passportID": "000000",
+      "hairColor": "RED",
+      "location": {
+        "x": 1,
+        "y": 1,
+        "name": "L0"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "name": "ADMIN1",
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": "5::Mar::2024 13::21::20",
+    "studentsCount": 23,
+    "expelledStudents": 2,
+    "shouldBeExpelled": 1,
+    "formOfEducation": "FULL_TIME_EDUCATION",
+    "groupAdmin": {
+      "name": "ADM1",
+      "passportID": "123456",
+      "hairColor": "RED",
+      "location": {
+        "x": 1,
+        "y": 1,
+        "name": "L1"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "GR8",
+    "coordinates": {
+      "x": 8,
+      "y": 8
+    },
+    "creationDate": "5::Mar::2024 19::59::30",
+    "studentsCount": 90,
+    "expelledStudents": 4,
+    "shouldBeExpelled": 3,
+    "formOfEducation": "EVENING_CLASSES",
+    "groupAdmin": {
+      "name": "ADMIN8",
+      "passportID": "88888",
+      "hairColor": "BROWN",
+      "location": {
+        "x": 1,
+        "y": 1,
+        "name": "L8"
+      }
+    }
+  }
+]
